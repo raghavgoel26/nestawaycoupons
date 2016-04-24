@@ -2,6 +2,10 @@ body {
     overflow-x: hidden;
     font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+html, body {
+  width: auto !important;
+  overflow-x: hidden !important;
+}
 .text-muted {
     color: #777;
 }
